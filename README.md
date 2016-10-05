@@ -20,14 +20,14 @@ Para compilar el fichero 'HolaMundo.java', ejecutamos las siguientes líneas de 
 
 Para compilar el programa:
 
-'''console
+```console
 javac HolaMundo.java
-'''
+```
 
 Para ejecutar el programa:
 
-'''console
+```console
 java HolaMundo
-'''
+```
 
 ## Enlaces de interés
