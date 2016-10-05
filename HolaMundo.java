@@ -3,6 +3,10 @@
 
 public class HolaMundo {
   public static void main (String[] args) {
-    System.out.println("¡Hola Mundo!");
+    
+    String color1 = "\033[32m";
+    String color2 = "\033[35m";
+
+    System.out.println(color1 + "¡Hola" + color2 + " Mundo!");
   }
 }
