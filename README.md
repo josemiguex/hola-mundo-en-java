@@ -14,6 +14,7 @@ Es una prueba para mostrar el manejo básico de git y github, aprovechamos de pa
 o
 
 Pulsa **F8** para compilar y **F5** para ejecutar (si no hay errores)
+
 ### Desde una ventana de terminal
 
 Para compilar el fichero 'HolaMundo.java', ejecutamos las siguientes líneas de comandos (es necesario tener instalado el *JDK*):
@@ -31,3 +32,8 @@ java HolaMundo
 ```
 
 ## Enlaces de interés
+
+* [Aprende Java con ejercicios](https://leanpub.com/aprendejava)
+* [Git y GitHub - Guía de Supervivencía](https://leanpub.com/gitygithub/)
+
+Espero que te guste este repositorio de GitHub, si es así dale una estrellita. :star:
