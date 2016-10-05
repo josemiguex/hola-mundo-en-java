@@ -1,2 +1,4 @@
-# hola-mundo-en-java
-This program shows "¡Hola mundo!" in the screen
+# "Hola mundo" en java
+Este programa muestra "¡Hola mundo!" en la pantalla.
+Es una prueba para mostrar el manejo básico de git y github, aprovechamos de paso para aprender un poco de java
+
